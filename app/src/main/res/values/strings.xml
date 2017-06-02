@@ -1,0 +1,12 @@
+<resources>
+    <string name="label_address">Address</string>
+    <string name="label_hours">Hours</string>
+    <string name="label_name">Name</string>
+    <string name="label_phone">Phone Number</string>
+    <string name="app_name">SnackMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="empty_name">No Name</string>
+    <string name="title_map">Map</string>
+    <string name="title_location">Location</string>
+    <string name="title_locations">Pinned Locations</string>
+</resources>
